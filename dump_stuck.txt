@@ -1,0 +1,6 @@
+-bash-4.2$ ceph pg dump_stuck inactive
+ok
+pg_stat state   up      up_primary      acting  acting_primary
+12.7a1  incomplete      [36,95,76]      36      [36,95,76]      36
+10.4f   incomplete      [6,36]  6       [6,36]  6
+12.7b   incomplete      [82,94,51]      82      [82,94,51]      82
